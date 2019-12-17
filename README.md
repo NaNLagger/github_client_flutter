@@ -1,6 +1,6 @@
 # github_client_flutter
 
-A new Flutter project.
+Github client on Flutter with Redux(fish_redux)
 
 ## Getting Started
 
